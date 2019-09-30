@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/admin-conflu/static/css/main.bd593024.chunk.css",
+    "main.js": "/admin-conflu/static/js/main.64b142f2.chunk.js",
+    "main.js.map": "/admin-conflu/static/js/main.64b142f2.chunk.js.map",
+    "runtime~main.js": "/admin-conflu/static/js/runtime~main.bf21e3a0.js",
+    "runtime~main.js.map": "/admin-conflu/static/js/runtime~main.bf21e3a0.js.map",
+    "static/js/2.fe098c7f.chunk.js": "/admin-conflu/static/js/2.fe098c7f.chunk.js",
+    "static/js/2.fe098c7f.chunk.js.map": "/admin-conflu/static/js/2.fe098c7f.chunk.js.map",
+    "index.html": "/admin-conflu/index.html",
+    "precache-manifest.ca36fa9ac46eda2f06c2719a0aaafe2f.js": "/admin-conflu/precache-manifest.ca36fa9ac46eda2f06c2719a0aaafe2f.js",
+    "service-worker.js": "/admin-conflu/service-worker.js",
+    "static/css/main.bd593024.chunk.css.map": "/admin-conflu/static/css/main.bd593024.chunk.css.map"
+  }
+}
