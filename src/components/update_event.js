@@ -47,13 +47,16 @@ class Update_event extends Component{
         let res = this.state;
         axios.post("https://confluence-backend.appspot.com/api/events/desc/",res)
         .then(response => {
-
+            if(response.data.success)
+            {
+                this.props.history.push("/");
+            }
             console.log("post success", response);
         }).catch(err => {
             console.log(err);
             return err;
         });
-        this.props.history.push("/")
+        
     })
 
     handlechangeofevents=(e=>{
